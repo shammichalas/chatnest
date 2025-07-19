@@ -94,7 +94,6 @@ pip install -r requirements.txt
 ## Environment Variables
 Create a `.env` file in the backend directory:
 ```
-MONGO_URI=mongodb+srv://chatnest:gpt@<your-cluster-url>/chatnest?retryWrites=true^&w=majority
 ```
 
 ---
