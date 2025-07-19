@@ -1,6 +1,6 @@
 
 export const generateResponse = async (message: string): Promise<string> => {
-  const apiKey = 'ez00UTlFoYrY07bw4XaQVuvxgx5tDgJa';
+  const apiKey = ' ';
 
   try {
     const systemPrompt = 'You are a helpful AI assistant. Provide responses that are appropriate in length and detail for what the user is asking. Be natural and comprehensive when needed, concise when appropriate.';
